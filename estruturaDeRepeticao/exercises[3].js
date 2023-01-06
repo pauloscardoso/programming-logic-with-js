@@ -8,7 +8,7 @@
 
 const fizzBuzz = (num) => {
   if (typeof num !== "number") return NaN;
-  if (num % 5 !== 0 && num % 3 !== 0) return num + ' nem um nem outro';
+  if (num % 5 !== 0 && num % 3 !== 0) return num + " nem um nem outro";
   if (num % 5 === 0 && num % 3 === 0) return "FizzBuzz";
   if (num % 3 === 0) return "Fizz";
   if (num % 5 === 0) return "Buzz";
