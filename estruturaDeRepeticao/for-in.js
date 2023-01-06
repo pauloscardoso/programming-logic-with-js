@@ -6,7 +6,7 @@ const pessoa = {
   idade: 29,
 };
 
-console.log(pessoa["nome"]);
+// console.log(pessoa["nome"]);
 
 // for(let i in frutas){
 //   console.log(frutas[i])
