@@ -1,0 +1,14 @@
+.container-body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: rgb(15, 134, 118);
+  color: black;
+}
+
+.container-section {
+  background-color: white;
+  margin: 20px;
+  border-radius: 10px;
+  padding: 0 20px;
+}
